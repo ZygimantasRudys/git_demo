@@ -1,7 +1,9 @@
+# another comment
 def print_hi(name):
     print(f'Hi, {name}')
 
 
+# function to say goodbye to client
 def print_goodbye(name):
     print(f'Goodbye, {name}')
 
