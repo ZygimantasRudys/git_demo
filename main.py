@@ -5,7 +5,7 @@ def print_hi(name):
 
 # function to say goodbye to client
 def print_goodbye(name):
-    print(f'Goodbye, {name}')
+    print(f'Goodbye, {name}'!)
 
 
 if __name__ == '__main__':
