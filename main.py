@@ -3,7 +3,7 @@ def print_hi(name):
 
 
 def print_goodbye(name):
-    print(f'Goodbye, {name}'!)
+    print(f'Goodbye, {name}!')
 
 
 if __name__ == '__main__':
