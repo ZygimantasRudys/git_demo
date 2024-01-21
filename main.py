@@ -8,5 +8,9 @@ def print_goodbye(name):
     print(f'Goodbye, {name}!')
 
 
+def sort():
+    pass
+
+
 if __name__ == '__main__':
     print_hi('PyCharm')
