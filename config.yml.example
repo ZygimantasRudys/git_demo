@@ -1,0 +1,4 @@
+db_user: <mandatory>
+db_password: <mandatory>
+api: <optional>
+google_api_token: <optional>
